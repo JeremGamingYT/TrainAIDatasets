@@ -1,5 +1,3 @@
-Bien sûr ! Voici un README en anglais pour un projet GitHub contenant un dataset diversifié avec plus de 100,000 à 1,000,000 d'entrées, incluant des blagues, des questions-réponses, et d'autres types de données.
-
 ---
 
 # Diverse Conversational Dataset 💬🤖
