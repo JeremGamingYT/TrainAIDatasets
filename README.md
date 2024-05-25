@@ -8,7 +8,6 @@ Welcome to the GitHub repository containing a diverse conversational dataset wit
 
 - `jokes.csv` : A CSV file containing thousands of jokes.
 - `questions_responses.csv` : A CSV file with thousands of question-answer pairs.
-- `examples/` : Some example entries extracted from the dataset.
 - `README.md` : This file describing the repository and how to use the dataset.
 
 ## Dataset Details 📊
